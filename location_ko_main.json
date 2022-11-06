@@ -1,0 +1,21 @@
+[
+    {
+    "number": "001",
+    "name": "배틀리조트",
+    "imageUrl": "https://pokedex.alansantos.dev/assets/pokemons/images/001.png",
+    "thumbnailUrl": "https://pokedex.alansantos.dev/assets/pokemons/thumbs/001.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [
+    "Grass",
+    "Poison"
+    ],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    }
+]
