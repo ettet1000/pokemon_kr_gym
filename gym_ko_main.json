@@ -1,9 +1,9 @@
 [
     {
     "number": "001",
-    "name": "악취",
-    "imageUrl": "https://pokedex.alansantos.dev/assets/pokemons/images/001.png",
-    "thumbnailUrl": "https://pokedex.alansantos.dev/assets/pokemons/thumbs/001.png",
+    "name": "갈색체육관",
+    "imageUrl": "https://ettet1000.github.io/pokemon_kr_gym/images/001_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_kr_gym/images/001_2.png",
     "sprites": {
     "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
     "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
