@@ -2,8 +2,27 @@
     {
     "number": "001",
     "name": "갈색체육관",
-    "imageUrl": "https://ettet1000.github.io/pokemon_kr_gym/images/001_1.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_kr_gym/images/001_1.png",
+    "imageUrl": "https://ettet1000.github.io/images_gym/images/001_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym/images/001_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [
+    "Grass",
+    "Poison"
+    ],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "002",
+    "name": "검방울체육관",
+    "imageUrl": "https://ettet1000.github.io/images_gym/images/002_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym/images/002_1.png",
     "sprites": {
     "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
     "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
