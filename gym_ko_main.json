@@ -2,8 +2,8 @@
     {
     "number": "001",
     "name": "갈색체육관",
-    "imageUrl": "https://ettet1000.github.io/images_gym/images/001_1.png",
-    "thumbnailUrl": "https://ettet1000.github.io/images_gym/images/001_1.png",
+    "imageUrl": "https://ettet1000.github.io/images_gym/001_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym/001_1.png",
     "sprites": {
     "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
     "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
@@ -21,8 +21,8 @@
     {
     "number": "002",
     "name": "검방울체육관",
-    "imageUrl": "https://ettet1000.github.io/images_gym/images/002_1.png",
-    "thumbnailUrl": "https://ettet1000.github.io/images_gym/images/002_1.png",
+    "imageUrl": "https://ettet1000.github.io/images_gym/002_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym/002_1.png",
     "sprites": {
     "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
     "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
