@@ -6,7 +6,7 @@
     "sprites":{"mainSpriteUrl":"https://ettet1000.github.io/images_gym/001_1.png",
     "frontAnimatedSpriteUrl":"https://ettet1000.github.io/images_gym/001_1.png",
     "backAnimatedSpriteUrl":"https://ettet1000.github.io/images_gym/001_2.png"},
-    "types":["Water"],
+    "types":["Normal"],
     "weaknesses":["Fire",
     "Psychic",
     "Flying",
