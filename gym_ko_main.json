@@ -912,5 +912,133 @@
     "types": [ "Fighting"],
     "specie": "Seed",
     "generation": "GENERATION_I"
-    }
+    },
+    {
+    "number": "058",
+     "name": "세르클체육관",
+    "imageUrl": "https://ettet1000.github.io/images_gym/2/058_1.png",
+     "thumbnailUrl": "https://ettet1000.github.io/images_gym/2/058_1.png",
+     "sprites": {
+     "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+     "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+     "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+     "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+     "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+     },
+     "types": [ "Ground"],
+     "specie": "Seed",
+     "generation": "GENERATION_I"
+    },
+    {
+    "number": "059",
+     "name": "보울체육관",
+    "imageUrl": "https://ettet1000.github.io/images_gym/2/059_1.png",
+     "thumbnailUrl": "https://ettet1000.github.io/images_gym/2/059_1.png",
+     "sprites": {
+     "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+     "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+     "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+     "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+     "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+     },
+     "types": [ "Ground"],
+     "specie": "Seed",
+     "generation": "GENERATION_I"
+    },
+    {
+    "number": "060",
+     "name": "누룩스체육관",
+    "imageUrl": "https://ettet1000.github.io/images_gym/2/060_1.png",
+     "thumbnailUrl": "https://ettet1000.github.io/images_gym/2/060_1.png",
+     "sprites": {
+     "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+     "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+     "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+     "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+     "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+     },
+     "types": [ "Ground"],
+     "specie": "Seed",
+     "generation": "GENERATION_I"
+    },
+    {
+    "number": "061",
+     "name": "카라프체육관",
+    "imageUrl": "https://ettet1000.github.io/images_gym/2/061_1.png",
+     "thumbnailUrl": "https://ettet1000.github.io/images_gym/2/061_1.png",
+     "sprites": {
+     "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+     "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+     "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+     "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+     "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+     },
+     "types": [ "Ground"],
+     "specie": "Seed",
+     "generation": "GENERATION_I"
+    },
+    {
+    "number": "062",
+     "name": "참푸르체육관",
+    "imageUrl": "https://ettet1000.github.io/images_gym/2/062_1.png",
+     "thumbnailUrl": "https://ettet1000.github.io/images_gym/2/062_1.png",
+     "sprites": {
+     "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+     "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+     "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+     "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+     "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+     },
+     "types": [ "Ground"],
+     "specie": "Seed",
+     "generation": "GENERATION_I"
+    },
+    {
+    "number": "063",
+     "name": "프리지체육관",
+    "imageUrl": "https://ettet1000.github.io/images_gym/2/063_1.png",
+     "thumbnailUrl": "https://ettet1000.github.io/images_gym/2/063_1.png",
+     "sprites": {
+     "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+     "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+     "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+     "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+     "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+     },
+     "types": [ "Ground"],
+     "specie": "Seed",
+     "generation": "GENERATION_I"
+    },
+    {
+    "number": "064",
+     "name": "베이크체육관",
+    "imageUrl": "https://ettet1000.github.io/images_gym/2/064_1.png",
+     "thumbnailUrl": "https://ettet1000.github.io/images_gym/2/064_1.png",
+     "sprites": {
+     "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+     "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+     "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+     "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+     "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+     },
+     "types": [ "Ground"],
+     "specie": "Seed",
+     "generation": "GENERATION_I"
+    },
+    {
+    "number": "065",
+     "name": "나페산체육관",
+    "imageUrl": "https://ettet1000.github.io/images_gym/2/065_1.png",
+     "thumbnailUrl": "https://ettet1000.github.io/images_gym/2/065_1.png",
+     "sprites": {
+     "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+     "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+     "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+     "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+     "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+     },
+     "types": [ "Ground"],
+     "specie": "Seed",
+     "generation": "GENERATION_I"
+     }
 ]
